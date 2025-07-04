@@ -1,0 +1,9 @@
+.VirtualBox/
+.bash_history
+.ssh/
+.vscode/
+.jdks/
+AppData/
+Desktop/
+Downloads/
+Pictures/

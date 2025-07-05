@@ -1,0 +1,9 @@
+.VirtualBox/
+.ssh/
+.vscode/
+Desktop/
+Documents/
+Downloads/
+*.log
+NTUSER.*
+ntuser.*

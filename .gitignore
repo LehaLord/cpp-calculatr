@@ -7,3 +7,8 @@ Downloads/
 *.log
 NTUSER.*
 ntuser.*
+Application Data/
+Cookies/
+Local Settings/
+AppdData/
+OneDrive/
